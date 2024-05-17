@@ -1,0 +1,15 @@
+.button-1, .button-2 {
+    font-family: Helvetica, Arial, system-ui;
+    font-size: 22px;
+}
+
+.button-1 {
+    color: white;
+    background-color: black;
+    font-weight: 700;
+}
+
+.button-2 {
+    color: black;
+    background-color: yellow;
+}
