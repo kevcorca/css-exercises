@@ -1,0 +1,30 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    background-color: rgb(255, 128, 128);
+}
+
+#number-2, #number-4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+
+#number-2 {
+    font-size: 32px;
+    color: rgb(0, 0, 255);
+}
+
+#number-4 {
+    font-size: 28px;
+    background-color: rgb(72, 255, 0);
+}
+
+.number-1, .number-5  {
+    font-size: 18px;
+}
+
+.number-3 {
+    font-size: 28px;
+}
